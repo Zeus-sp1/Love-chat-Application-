@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281338384284",
+    "project_id": "love-chat-c9199",
+    "storage_bucket": "love-chat-c9199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281338384284:android:63f9129618e3e4f8e4c259",
+        "android_client_info": {
+          "package_name": "com.zeuscode.love_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281338384284-42cdi41fd4qnt3da254bdj0hg2n9pv79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9bRU6fFa-EkTyL6PEW7Ef3xhj-YsMcCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281338384284-42cdi41fd4qnt3da254bdj0hg2n9pv79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
